@@ -25,6 +25,7 @@ namespace Application.Features.Customers.Commands
 
         public async Task<Customer> Handle(CreateCustomerCommand request, CancellationToken cancellationToken)
         {
+
             if (string.IsNullOrEmpty(request.Name))
                 throw new ArgumentException("Customer name cannot be empty.");
 
