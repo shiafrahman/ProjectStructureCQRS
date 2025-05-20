@@ -17,3 +17,4 @@ E:\Shiaf\ProjectStructureCQRS\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\Shiaf\ProjectStructureCQRS\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 E:\Shiaf\ProjectStructureCQRS\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 E:\Shiaf\ProjectStructureCQRS\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+E:\Shiaf\ProjectStructureCQRS\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
