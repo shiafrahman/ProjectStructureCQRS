@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
-    public class EnterpriseDbContext: IdentityDbContext, IUnitOfWork
+    public class EnterpriseDbContext: IdentityDbContext
     {
         public EnterpriseDbContext(DbContextOptions<EnterpriseDbContext> options) : base(options) { }
 
@@ -32,5 +32,7 @@ namespace Infrastructure.Data
             }
             return await base.SaveChangesAsync(cancellationToken);
         }
+
+
     }
 }
