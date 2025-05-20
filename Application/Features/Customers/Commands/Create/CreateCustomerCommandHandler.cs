@@ -1,5 +1,7 @@
-﻿using Application.Features.Customers.Models;
+﻿
+using Application.Features.Customers.Models;
 using AutoMapper;
+using Core.Entities;
 using Core.Interfaces;
 using MediatR;
 using System;

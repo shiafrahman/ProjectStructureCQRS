@@ -1,4 +1,6 @@
-﻿using Application.Features.Customers.Models;
+﻿
+using Application.Features.Customers.Models;
+using Core.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;

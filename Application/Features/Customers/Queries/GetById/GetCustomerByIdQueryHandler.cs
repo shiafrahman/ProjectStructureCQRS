@@ -1,5 +1,6 @@
 ﻿using Application.Common.Exceptions;
 using Application.Features.Customers.Models;
+using Core.Entities;
 using Core.Interfaces;
 using MediatR;
 using System;
