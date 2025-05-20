@@ -1,3 +1,4 @@
+using Api.DI;
 using Api.Middleware;
 using Application.Common.Mappings;
 using Core.Interfaces;
@@ -95,7 +96,8 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 //builder.Services.AddScoped<EnterpriseDbContext>();
 builder.Services.AddScoped<EnterpriseDbContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IAuthService, AuthService>();
+//builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddApplicationServices();
 
 var app = builder.Build();
 
