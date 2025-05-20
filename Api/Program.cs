@@ -93,7 +93,8 @@ builder.Services.AddMediatR(cfg =>
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 //builder.Services.AddScoped<EnterpriseDbContext>();
-builder.Services.AddScoped<IUnitOfWork, EnterpriseDbContext>();
+builder.Services.AddScoped<EnterpriseDbContext>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
