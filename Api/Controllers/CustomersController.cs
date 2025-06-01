@@ -1,4 +1,5 @@
 ﻿using Application.Features.Customers.Commands;
+using Application.Features.Customers.Commands.Update;
 using Application.Features.Customers.Queries;
 using Application.Features.Customers.Queries.GetAll;
 using MediatR;
@@ -9,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Api.Controllers
 {
     //[Authorize]
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class CustomersController : ControllerBase
     {
@@ -43,6 +44,16 @@ namespace Api.Controllers
         {
             var customer = await _mediator.Send(command);
             return CreatedAtAction(nameof(GetById), new { id = customer.Id }, customer);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] UpdateCustomerCommand command)
+        {
+            if (id != command.Id)
+                return BadRequest("ID mismatch.");
+
+            var customer = await _mediator.Send(command);
+            return Ok(customer);
         }
     }
 }

@@ -13,7 +13,6 @@
 
 	<ItemGroup>
 		<Folder Include="Features\Customers\Commands\Delete\" />
-		<Folder Include="Features\Customers\Commands\Update\" />
 	</ItemGroup>
 
 	<ItemGroup>

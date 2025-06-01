@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "E:\\Shiaf\\ProjectStructureCQRS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|e:\\shiaf\\projectstructurecqrs\\api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|solutionrelative:api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\update\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\update\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\data\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\update\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\update\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\identity\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|e:\\shiaf\\projectstructurecqrs\\api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|solutionrelative:api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|e:\\shiaf\\projectstructurecqrs\\core\\interfaces\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|solutionrelative:core\\interfaces\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +55,12 @@
       "RelativeMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|e:\\shiaf\\projectstructurecqrs\\api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|solutionrelative:api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|e:\\shiaf\\projectstructurecqrs\\core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|e:\\shiaf\\projectstructurecqrs\\api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FA8A192-923B-4565-A6FA-263302A00E8E}|Api\\Api.csproj|solutionrelative:api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\data\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DDF8DD-2FDF-4779-963A-EC01F92B8BFB}|Infrastructure\\Infrastructure.csproj|e:\\shiaf\\projectstructurecqrs\\infrastructure\\data\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,18 +83,6 @@
       "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\queries\\getall\\getallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|e:\\shiaf\\projectstructurecqrs\\application\\features\\customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C7027E-A810-4B7E-87CB-07D86EE88B75}|Application\\Application.csproj|solutionrelative:application\\features\\customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|e:\\shiaf\\projectstructurecqrs\\core\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17972BF-EA4E-44BF-BA1A-92B1BAFFDB1D}|Core\\Core.csproj|solutionrelative:core\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -82,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,33 +102,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:56:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:56:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Identity\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\AuthService.cs",
+              "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Identity\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\AuthService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:54:33.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Core\\Interfaces\\Auth\\IAuthService.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\Auth\\IAuthService.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Core\\Interfaces\\Auth\\IAuthService.cs",
               "RelativeToolTip": "Core\\Interfaces\\Auth\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:34:28.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Api\\DI\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Api\\DI\\DependencyInjection.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Api\\DI\\DependencyInjection.cs",
               "RelativeToolTip": "Api\\DI\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:32:55.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "IService.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Core\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IService.cs",
@@ -124,12 +175,11 @@
               "RelativeToolTip": "Core\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:30:49.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:30:49.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
@@ -137,12 +187,11 @@
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAGIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:06:37.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:06:37.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -150,51 +199,50 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:06:21.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:06:21.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:06:18.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Api\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\CustomersController.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Api\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Api\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:02:43.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Models\\Customer.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Models\\Customer.cs",
               "RelativeToolTip": "Application\\Features\\Customers\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:02:22.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "BaseDto.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Core\\Dtos\\BaseDto.cs",
               "RelativeDocumentMoniker": "Core\\Dtos\\BaseDto.cs",
@@ -202,12 +250,11 @@
               "RelativeToolTip": "Core\\Dtos\\BaseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:01:31.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:01:31.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "CustomerConfiguration.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Data\\Configurations\\CustomerConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Configurations\\CustomerConfiguration.cs",
@@ -215,25 +262,24 @@
               "RelativeToolTip": "Infrastructure\\Data\\Configurations\\CustomerConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:42:33.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:42:33.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "EnterpriseDbContext.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Data\\EnterpriseDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\EnterpriseDbContext.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Infrastructure\\Data\\EnterpriseDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\EnterpriseDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T05:42:16.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "GetCustomerByIdQueryHandler.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQueryHandler.cs",
@@ -241,12 +287,11 @@
               "RelativeToolTip": "Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:42:10.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:42:10.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "GetCustomerByIdQuery.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQuery.cs",
@@ -254,12 +299,11 @@
               "RelativeToolTip": "Application\\Features\\Customers\\Queries\\GetById\\GetCustomerByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:42:01.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:42:01.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "GetAllCustomerQueryHandler.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQueryHandler.cs",
@@ -267,12 +311,11 @@
               "RelativeToolTip": "Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:41:48.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:41:48.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "GetAllCustomerQuery.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQuery.cs",
@@ -280,25 +323,24 @@
               "RelativeToolTip": "Application\\Features\\Customers\\Queries\\GetAll\\GetAllCustomerQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:41:37.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:41:37.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Mappings\\MappingProfile.cs",
               "ToolTip": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "Application\\Common\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T05:30:16.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "CreateCustomerCommandHandler.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
@@ -311,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "CreateCustomerCommand.cs",
               "DocumentMoniker": "E:\\Shiaf\\ProjectStructureCQRS\\Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",

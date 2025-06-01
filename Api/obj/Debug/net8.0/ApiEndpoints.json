@@ -33,18 +33,8 @@
   },
   {
     "ContainingType": "Api.Controllers.CustomersController",
-    "Method": "GetAll",
-    "RelativePath": "api/Customers",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Api.Controllers.CustomersController",
     "Method": "Create",
-    "RelativePath": "api/Customers",
+    "RelativePath": "api/Customers/Create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -59,8 +49,18 @@
   },
   {
     "ContainingType": "Api.Controllers.CustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/Customers/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.CustomersController",
     "Method": "GetById",
-    "RelativePath": "api/Customers/{id}",
+    "RelativePath": "api/Customers/GetById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -68,6 +68,27 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.CustomersController",
+    "Method": "Update",
+    "RelativePath": "api/Customers/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Application.Features.Customers.Commands.Update.UpdateCustomerCommand",
         "IsRequired": true
       }
     ],
